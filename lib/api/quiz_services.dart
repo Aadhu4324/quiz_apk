@@ -20,5 +20,6 @@ class QuizServices {
     } catch (e) {
       print(e);
     }
+    return null;
   }
 }
